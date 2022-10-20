@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sppencerr
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning how to work with MVC
 - 📫 How to reach me, spencergerritsen@gmail.com
 
 <!---
