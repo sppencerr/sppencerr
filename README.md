@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sppencerr
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently building a forum for tech called minka!!
+- 🌱 I’m currently learning noSQL
 - 📫 How to reach me, spencergerritsen@gmail.com
 
 <!---
