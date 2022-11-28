@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sppencerr
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning noSQL
+- 🌱 I’m currently learning React
 - 📫 How to reach me, spencergerritsen@gmail.com
 
 <!---
