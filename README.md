@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sppencerr
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently job searching 
 - 📫 How to reach me, spencergerritsen@gmail.com
 
 <!---
