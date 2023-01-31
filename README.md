@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sppencerr
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently job searching 
+- 🌱 I’m currently working at Sephora DC
 - 📫 How to reach me, spencergerritsen@gmail.com
 
 <!---
